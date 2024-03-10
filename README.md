@@ -19,7 +19,7 @@ A docker container with PostgresSQL is used to store passwords. To setup the a n
 
 ### Step 1: Clone Project and Project Files   
 
-```git clone https://github.com/collinsmc23/python-sql-password-manager```
+```git clone https://github.com/Kunalchouhan5/Password-manager-python-sql.git```
 
 ### Step 2: Generate a Master Password Hash
 
